@@ -1,0 +1,4 @@
+train: C:\Users\mohan\OneDrive\Desktop\yolov8_mask\train
+val: C:\Users\mohan\OneDrive\Desktop\yolov8_mask\val
+nc: 1
+names: ["mask"]
